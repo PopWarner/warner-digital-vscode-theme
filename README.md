@@ -1,19 +1,19 @@
 # Warner Digital — VS Code Theme
 
-> *"Purple and gold. That's it. That's the whole design system."*
+> *"Purple and orange. That's it. That's the whole design system."*
 
-A dark VS Code theme built around the Warner Digital Studio brand colors: deep purple (`#4f2683`) and gold (`#f99500`). Born from years of `workbench.colorCustomizations` hacks stacked on top of other hacks, this theme finally has its own home — and honestly, it deserves it.
+A dark VS Code theme built around the Warner Digital Studio brand colors: deep purple (`#4f2683`) and orange (`#f99500`). Born from years of `workbench.colorCustomizations` hacks stacked on top of other hacks, this theme finally has its own home — and honestly, it deserves it.
 
 You probably didn't search for this. You stumbled across it. And now you're here, reading a README for a color theme built by one person who really, really likes purple. Welcome. Stay a while.
 
 ---
 
-## Why Purple and Gold?
+## Why Purple and Orange?
 
 Because it's the Warner Digital brand. But also because:
 
 - **Purple** is regal, creative, and slightly mysterious — like a developer who actually comments their code
-- **Gold** is bold, warm, and impossible to miss — like a `console.log` you forgot to remove before deploying
+- **Orange** is bold, warm, and impossible to miss — like a `console.log` you forgot to remove before deploying
 - Together they make your IDE look intentional instead of like the default theme you've had since 2017
 
 ---
@@ -22,7 +22,7 @@ Because it's the Warner Digital brand. But also because:
 
 ### Warner Digital *(your daily driver)*
 
-Full purple/gold everything. Activity bar, status bar, title bar, editor highlights, IntelliSense — all of it. For when you want your IDE to have a *personality*.
+Full purple/orange everything. Activity bar, status bar, title bar, editor highlights, IntelliSense — all of it. For when you want your IDE to have a *personality*.
 
 ### Warner Digital - Demo Dark *(for presentations in dark rooms)*
 
@@ -36,11 +36,11 @@ Same branded chrome, VS Code Default Light+ token colors on a white editor. For 
 
 ## Features
 
-- **Activity bar, status bar, title bar** — full purple/gold branding, top to bottom
-- **Editor** — dark `#1e1e1e` background, gold cursor (finally visible), gold selections (also finally visible)
-- **Token colors** — green comments, light-purple strings, gold functions, mid-purple types, white numbers
+- **Activity bar, status bar, title bar** — full purple/orange branding, top to bottom
+- **Editor** — dark `#1e1e1e` background, orange cursor (finally visible), orange selections (also finally visible)
+- **Token colors** — green comments, light-purple strings, orange functions, mid-purple types, white numbers
 - **IntelliSense popup** — explicitly styled so the autocomplete dropdown doesn't look like an identity crisis
-- **Bracket matching** — gold borders, because finding your closing bracket shouldn't require squinting
+- **Bracket matching** — orange borders, because finding your closing bracket shouldn't require squinting
 - **Three theme variants** — because one size fits no one
 
 ---
@@ -77,5 +77,5 @@ Now it's a real extension. A proper, packaged, publishable extension. We've come
 
 ---
 
-*Built with purple, gold, and an unhealthy attachment to a specific hex code.*
+*Built with purple, orange, and an unhealthy attachment to a specific hex code.*
 *Warner Digital Studio — [warnerdigital.com](https://warnerdigital.com)*

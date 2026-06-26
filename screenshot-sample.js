@@ -4,7 +4,7 @@
 
 const BRAND_MANIFESTO = {
   primary: "#4f2683",       // The One True Purple™
-  secondary: "#f99500",     // Gold, not yellow. Never call it yellow.
+  secondary: "#f99500",     // Orange, not yellow. Never call it yellow.
   philosophy: "sharing is caring",
   pagesInStyleGuide: 47,
   timesDesignerSaidItWasFine: 0,
