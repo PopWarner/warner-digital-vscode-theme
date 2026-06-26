@@ -1,22 +1,81 @@
 # Warner Digital — VS Code Theme
 
-A dark color theme built around the Warner Digital Studio brand: deep purple (`#4f2683`) and gold (`#f99500`).
+> *"Purple and gold. That's it. That's the whole design system."*
+
+A dark VS Code theme built around the Warner Digital Studio brand colors: deep purple (`#4f2683`) and gold (`#f99500`). Born from years of `workbench.colorCustomizations` hacks stacked on top of other hacks, this theme finally has its own home — and honestly, it deserves it.
+
+You probably didn't search for this. You stumbled across it. And now you're here, reading a README for a color theme built by one person who really, really likes purple. Welcome. Stay a while.
+
+---
+
+## Why Purple and Gold?
+
+Because it's the Warner Digital brand. But also because:
+
+- **Purple** is regal, creative, and slightly mysterious — like a developer who actually comments their code
+- **Gold** is bold, warm, and impossible to miss — like a `console.log` you forgot to remove before deploying
+- Together they make your IDE look intentional instead of like the default theme you've had since 2017
+
+---
+
+## Themes Included
+
+### Warner Digital *(your daily driver)*
+
+Full purple/gold everything. Activity bar, status bar, title bar, editor highlights, IntelliSense — all of it. For when you want your IDE to have a *personality*.
+
+### Warner Digital - Demo Dark *(for presentations in dark rooms)*
+
+Same branded chrome, VS Code Default Dark+ token colors underneath. Because sometimes you're screensharing and your colleagues need to actually read the code without squinting through a wall of lavender.
+
+### Warner Digital - Demo Light *(for presentations in bright rooms)*
+
+Same branded chrome, VS Code Default Light+ token colors on a white editor. For conference rooms with aggressive overhead lighting and a projector that washes out everything below 80% brightness.
+
+---
 
 ## Features
 
-- **Activity bar, status bar, title bar** — full purple/gold branding
-- **Editor** — dark `#1e1e1e` background with purple accent highlights and gold active tab indicator
-- **Token colors** — green comments, purple strings, light-purple keywords, gold functions, mid-purple types
-- **Terminal** — dark panel with mid-purple foreground and gold cursor
-- **Demo Dark** — Warner Digital chrome with VS Code Default Dark+ token colors for presentations
-- **Demo Light** — Warner Digital chrome with VS Code Default Light+ token colors for bright rooms
+- **Activity bar, status bar, title bar** — full purple/gold branding, top to bottom
+- **Editor** — dark `#1e1e1e` background, gold cursor (finally visible), gold selections (also finally visible)
+- **Token colors** — green comments, light-purple strings, gold functions, mid-purple types, white numbers
+- **IntelliSense popup** — explicitly styled so the autocomplete dropdown doesn't look like an identity crisis
+- **Bracket matching** — gold borders, because finding your closing bracket shouldn't require squinting
+- **Three theme variants** — because one size fits no one
+
+---
 
 ## Installation
 
-Search for **Warner Digital** in the VS Code Extension Marketplace and click **Install**, or install the `.vsix` directly:
+Search for **Warner Digital** in the VS Code Extension Marketplace and click **Install**. Or if you prefer the artisanal approach:
 
 ```bash
 code --install-extension warner-digital-theme-x.x.x.vsix
 ```
 
-Then open the Command Palette (`Ctrl+K Ctrl+T`) and select **Warner Digital**.
+Then open the Command Palette (`Ctrl+K Ctrl+T`) and select **Warner Digital** (or one of its demo variants). Your eyes will adjust. Embrace the purple.
+
+---
+
+## Contributing
+
+Sharing is caring. Genuinely.
+
+If something looks off in a language we haven't tested, open an issue or submit a PR. Token color scopes are a rabbit hole and we haven't gone down all of them. If you find one that makes you say "why is that purple?" — please tell us. We want to know.
+
+- Found a color that's unreadable? File an issue.
+- Have a language-specific token scope fix? Submit a PR.
+- Just want to say the theme is great? GitHub Stars are free and deeply appreciated.
+
+---
+
+## The Backstory
+
+This theme started as a `workbench.colorCustomizations` block in a `settings.json` file. Then it got bigger. Then it had inline comments. Then it had commented-out experiments. Then it had a comment block that said `"OLD - DO NOT DELETE"` from 2019.
+
+Now it's a real extension. A proper, packaged, publishable extension. We've come a long way.
+
+---
+
+*Built with purple, gold, and an unhealthy attachment to a specific hex code.*
+*Warner Digital Studio — [warnerdigital.com](https://warnerdigital.com)*
