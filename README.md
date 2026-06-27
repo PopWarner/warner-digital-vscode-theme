@@ -83,9 +83,9 @@ If something looks off in a language I haven't tested, open an issue or submit a
 
 This theme started as a `workbench.colorCustomizations` block in a `settings.json` file. Then it got bigger. Then it had inline comments. Then it had commented-out experiments. Then it had a comment block that said `"OLD - DO NOT DELETE"` from 2019.
 
-Now it's a real extension. A proper, packaged, publishable extension. We've come a long way.
+Now it's a real extension. A proper, packaged, publishable extension. I've come a long way.
 
 ---
 
 *Built with purple, orange, and an unhealthy attachment to a specific hex code.*
-*Warner Digital Studio - [warnerdigital.com](https://warnerdigital.com)*
+*Warner Digital Studio - [warner.digital](https://warner.digital)*
