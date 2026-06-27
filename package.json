@@ -2,7 +2,7 @@
   "name": "warner-digital-theme",
   "displayName": "Warner Digital Themes",
   "description": "A dark theme with deep purple (#4f2683) and orange (#f99500) - the Warner Digital Studio brand colors.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "publisher": "WarnerDigital",
   "engines": {
     "vscode": "^1.90.0"
