@@ -63,7 +63,7 @@ Same branded chrome, VS Code Default Light+ token colors on a white editor. For 
 
 ## Installation
 
-Search for **Warner Digital** in the VS Code Extension Marketplace and click **Install**. Then open the Command Palette (`Ctrl+K Ctrl+T`) and select **Warner Digital** (or one of its demo variants). Your eyes will adjust. Embrace the purple.
+Search for **Warner Digital** in the VS Code Extension Marketplace and click **Install**. Then open the Command Palette (`Ctrl+K Ctrl+T`) and select **Warner Digital** (or one of its demo variants). Your eyes will adjust. Embrace the purple and orange 🧡💜😍.
 
 ---
 
@@ -71,7 +71,7 @@ Search for **Warner Digital** in the VS Code Extension Marketplace and click **I
 
 Sharing is caring. Genuinely.
 
-If something looks off in a language we haven't tested, open an issue or submit a PR. Token color scopes are a rabbit hole and we haven't gone down all of them. If you find one that makes you say "why is that purple?" - please tell us. We want to know.
+If something looks off in a language I haven't tested, open an issue or submit a PR. Token color scopes are a rabbit hole and I haven't gone down all of them. If you find one that makes you say "why is that purple?" - please tell me. I want to know.
 
 - Found a color that's unreadable? File an issue.
 - Have a language-specific token scope fix? Submit a PR.
