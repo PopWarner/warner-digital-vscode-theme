@@ -83,7 +83,7 @@ If something looks off in a language I haven't tested, open an issue or submit a
 
 This theme started as a `workbench.colorCustomizations` block in a `settings.json` file. Then it got bigger. Then it had inline comments. Then it had commented-out experiments. Then it had a comment block that said `"OLD - DO NOT DELETE"` from 2019.
 
-Now it's a real extension. A proper, packaged, publishable extension. I've come a long way.
+Now it's a real extension. A proper, packaged, publishable extension with a `package.json` and everything. All grown up and fancy. Mom would be proud.
 
 ---
 
