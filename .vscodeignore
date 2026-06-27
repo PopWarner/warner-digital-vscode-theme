@@ -3,3 +3,5 @@
 *.vsix
 sample.md
 screenshot-sample.js
+images/*-original.png
+images/icon.png
