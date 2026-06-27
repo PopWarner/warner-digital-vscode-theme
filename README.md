@@ -4,7 +4,7 @@
 
 A dark VS Code theme built around the Warner Digital Studio brand colors: deep purple (`#4f2683`) and orange (`#f99500`). Born from years of `workbench.colorCustomizations` hacks stacked on top of other hacks, this theme finally has its own home - and honestly, it deserves it.
 
-You probably didn't search for this. You stumbled across it. And now you're here, reading a README for a color theme built by one person who really, really likes purple. Welcome. Stay a while.
+You probably didn't search for this. You stumbled across it. And now you're here, reading a README for a color theme built by one person who really, really likes purple and orange. Welcome. Stay a while.
 
 ---
 
@@ -12,8 +12,8 @@ You probably didn't search for this. You stumbled across it. And now you're here
 
 Because it's the Warner Digital brand. But also because:
 
-- **Purple** is regal, creative, and slightly mysterious - like a developer who actually comments their code
-- **Orange** is bold, warm, and impossible to miss - like a `console.log` you forgot to remove before deploying
+- **Purple** is regal, creative, and slightly mysterious - like a developer who actually comments their code - SKOL - Go Kings Go
+- **Orange** is bold, warm, and impossible to miss - also it looks like fall, and fall is great
 - Together they make your IDE look intentional instead of like the default theme you've had since 2017
 
 ---
