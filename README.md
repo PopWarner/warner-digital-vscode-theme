@@ -18,6 +18,16 @@ Because it's the Warner Digital brand. But also because:
 
 ---
 
+## Screenshots
+
+<!-- SCREENSHOT: Main theme — open screenshot-sample.js in the dev host, take a crop showing the editor + activity bar -->
+![Warner Digital — Main Theme](images/screenshot-dark.png)
+
+<!-- SCREENSHOT: Demo Light — same file, switch to Warner Digital - Demo Light -->
+![Warner Digital — Demo Light](images/screenshot-light.png)
+
+---
+
 ## Themes Included
 
 ### Warner Digital *(your daily driver)*
