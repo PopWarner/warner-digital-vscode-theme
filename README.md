@@ -25,11 +25,11 @@ Because it's the Warner Digital brand. But also because:
 ![Warner Digital - Main Theme](images/screenshot-main.png)
 
 <!-- SCREENSHOT: Demo Dark - same file, switch to Warner Digital - Demo Dark -->
-**Warner Digital Demo Dark - for presentations in dark rooms**
+**Warner Digital Demo Dark - for presentations in dark rooms using standard syntax highlighting and coloring**
 ![Warner Digital - Demo Dark](images/screenshot-demo-dark.png)
 
 <!-- SCREENSHOT: Demo Light - same file, switch to Warner Digital - Demo Light -->
-**Warner Digital Demo Light - for presentations in bright rooms**
+**Warner Digital Demo Light - for presentations in bright rooms using standard syntax highlighting and coloring**
 ![Warner Digital - Demo Light](images/screenshot-demo-light.png)
 
 ---
@@ -63,13 +63,7 @@ Same branded chrome, VS Code Default Light+ token colors on a white editor. For 
 
 ## Installation
 
-Search for **Warner Digital** in the VS Code Extension Marketplace and click **Install**. Or if you prefer the artisanal approach:
-
-```bash
-code --install-extension warner-digital-theme-x.x.x.vsix
-```
-
-Then open the Command Palette (`Ctrl+K Ctrl+T`) and select **Warner Digital** (or one of its demo variants). Your eyes will adjust. Embrace the purple.
+Search for **Warner Digital** in the VS Code Extension Marketplace and click **Install**. Then open the Command Palette (`Ctrl+K Ctrl+T`) and select **Warner Digital** (or one of its demo variants). Your eyes will adjust. Embrace the purple.
 
 ---
 
