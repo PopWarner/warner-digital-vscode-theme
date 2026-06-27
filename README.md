@@ -63,7 +63,7 @@ Same branded chrome, VS Code Default Light+ token colors on a white editor. For 
 
 ## Installation
 
-Search for **Warner Digital** in the VS Code Extension Marketplace and click **Install**. Then open the Command Palette (`Ctrl+K Ctrl+T`) and select **Warner Digital** (or one of its demo variants). Your eyes will adjust. Embrace the purple and orange 🧡💜😍.
+Search for **Warner Digital** in the VS Code Extension Marketplace (under the Themes category) and click **Install**. Then open the Command Palette (`Ctrl+K Ctrl+T`) and select **Warner Digital** (or one of its demo variants). Your eyes will adjust. Embrace the purple and orange 🧡💜😍.
 
 ---
 
