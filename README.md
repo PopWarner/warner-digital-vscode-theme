@@ -20,11 +20,14 @@ Because it's the Warner Digital brand. But also because:
 
 ## Screenshots
 
-<!-- SCREENSHOT: Main theme — open screenshot-sample.js in the dev host, take a crop showing the editor + activity bar -->
-![Warner Digital — Main Theme](images/screenshot-dark.png)
+<!-- SCREENSHOT: Main theme — open screenshot-sample.js in the dev host, switch to Warner Digital -->
+![Warner Digital — Main Theme](images/screenshot-main.png)
+
+<!-- SCREENSHOT: Demo Dark — same file, switch to Warner Digital - Demo Dark -->
+![Warner Digital — Demo Dark](images/screenshot-demo-dark.png)
 
 <!-- SCREENSHOT: Demo Light — same file, switch to Warner Digital - Demo Light -->
-![Warner Digital — Demo Light](images/screenshot-light.png)
+![Warner Digital — Demo Light](images/screenshot-demo-light.png)
 
 ---
 
