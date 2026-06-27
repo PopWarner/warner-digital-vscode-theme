@@ -21,15 +21,15 @@ Because it's the Warner Digital brand. But also because:
 ## Screenshots
 
 <!-- SCREENSHOT: Main theme - open screenshot-sample.js in the dev host, switch to Warner Digital -->
-Warner Digital - your daily driver
+**Warner Digital - your daily driver**
 ![Warner Digital - Main Theme](images/screenshot-main.png)
 
 <!-- SCREENSHOT: Demo Dark - same file, switch to Warner Digital - Demo Dark -->
-Warner Digital Demo Dark - for presentations in dark rooms
+**Warner Digital Demo Dark - for presentations in dark rooms**
 ![Warner Digital - Demo Dark](images/screenshot-demo-dark.png)
 
 <!-- SCREENSHOT: Demo Light - same file, switch to Warner Digital - Demo Light -->
-Warner Digital Demo Light - for presentations in bright rooms
+**Warner Digital Demo Light - for presentations in bright rooms**
 ![Warner Digital - Demo Light](images/screenshot-demo-light.png)
 
 ---
